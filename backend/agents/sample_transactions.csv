@@ -1,0 +1,8 @@
+date,category,amount,type
+2026-07-01,Food,500,expense
+2026-07-02,Travel,300,expense
+2026-07-03,Shopping,2000,expense
+2026-07-05,Entertainment,1000,expense
+2026-07-10,Salary,50000,income
+2026-07-15,Food,700,expense
+2026-07-20,Travel,500,expense

@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+pydantic
+python-multipart
+pandas
+scikit-learn
+joblib
+google-generativeai
+langgraph
+faiss-cpu
+sentence-transformers
+mlflow
